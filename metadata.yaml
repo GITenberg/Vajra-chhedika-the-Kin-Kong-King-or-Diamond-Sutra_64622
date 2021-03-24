@@ -1,0 +1,40 @@
+_repo: Vajra-chhedika-the-Kin-Kong-King-or-Diamond-Sutra_64622
+_version: 0.0.1
+contributor:
+  translators:
+  - agent_name: Kumarajiva
+    aliases:
+    - Jiumoluoshi
+    - 鸠摩罗什
+    - 鳩摩羅什
+    - Chiu-mo-lo-shih
+    gutenberg_agent_id: '31248'
+    url: http://www.gutenberg.org/2009/agents/31248
+    wikipedia: http://en.wikipedia.org/wiki/Kumarajiva
+  - agent_name: Beal, Samuel
+    birthdate: 1825
+    deathdate: 1889
+    gutenberg_agent_id: '35288'
+    url: http://www.gutenberg.org/2009/agents/35288
+    wikipedia: https://en.wikipedia.org/wiki/Samuel_Beal
+creator:
+  author:
+    agent_name: Unknown
+    gutenberg_agent_id: '49'
+    url: http://www.gutenberg.org/2009/agents/49
+    wikipedia: http://www.gutenberg.org/ebooks/author/216
+description: ''
+gutenberg_issued: '2021-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '64622'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Buddhism -- Sacred books'
+- !lcc 'PK'
+- GITenberg
+title: Vajra-chhediká, the "Kin Kong King," or Diamond Sútra
+url: http://www.gutenberg.org/ebooks/64622
