@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '35288'
     url: http://www.gutenberg.org/2009/agents/35288
     wikipedia: https://en.wikipedia.org/wiki/Samuel_Beal
+covers:
+- cover_type: archival
+  image_path: 64622-h/images/cover.jpg
 creator:
   author:
     agent_name: Unknown
@@ -24,6 +27,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/49
     wikipedia: http://www.gutenberg.org/ebooks/author/216
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64622#Vajra-chhedika-the-Kin-Kong-King-or-Diamond-Sutra
 gutenberg_issued: '2021-02-25'
 gutenberg_type: Text
 identifiers:
